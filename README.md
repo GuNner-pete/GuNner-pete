@@ -1,16 +1,11 @@
-# Hi there 👋, I'm Peter-you can also call me Pete-
-
+### Hi there 👋, I'm Peter-you can also call me Pete-
+<div class="d-fleax-column">
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GuNner-pete&count_private=true&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
-<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuNner-pete)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+- 🌱 I’m currently learning HTML&CSS
+- 📫 How to reach me: <a href=">
 
-# - 🌱 I’m currently learning:
-## HTML&CSS &nbsp;
-## Ruby &nbsp;
-
-## 📫 How to reach  
-[@Peter_Mo_Gerges](https://app.slack.com/client/T47CT8XPG/D01DKUXRDKP/user_profile/U01DP875AP5)&nbsp; <br>
-[twitter](https://twitter.com/MoonlighMr)&nbsp;
 
 
 
