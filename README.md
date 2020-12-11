@@ -6,7 +6,8 @@
 
 - 🌱 I’m currently learning HTML&CSS
 ## 📫 How to reach me:
-               [@Peter_Mo_Gerges](https://app.slack.com/client/T47CT8XPG/D01DKUXRDKP/user_profile/U01DP875AP5) <br>
+               [@Peter_Mo_Gerges](https://app.slack.com/client/T47CT8XPG/D01DKUXRDKP/user_profile/U01DP875AP5)
+               <br>
                [twitter](https://twitter.com/MoonlighMr)
 
 
