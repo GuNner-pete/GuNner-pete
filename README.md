@@ -4,7 +4,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuNner-pete)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🌱 I’m currently learning HTML&CSS
-- 📫 How to reach me: [@GuNner-pete](https://github.com/GuNner-pete)
+- 📫 How to reach me: 
+              [@GuNner-pete](https://github.com/GuNner-pete)
+              [@Peter_Mo_Gerges](https://app.slack.com/client/T47CT8XPG/D01DKUXRDKP/user_profile/U01DP875AP5)
 
 
 
