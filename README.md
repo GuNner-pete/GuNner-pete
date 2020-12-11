@@ -9,7 +9,7 @@
 ## Ruby &nbsp;
 
 ## 📫 How to reach  
-[@Peter_Mo_Gerges](https://app.slack.com/client/T47CT8XPG/D01DKUXRDKP/user_profile/U01DP875AP5)&nbsp;
+[@Peter_Mo_Gerges](https://app.slack.com/client/T47CT8XPG/D01DKUXRDKP/user_profile/U01DP875AP5)&nbsp; <br>
 [twitter](https://twitter.com/MoonlighMr)&nbsp;
 
 
