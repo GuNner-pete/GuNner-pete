@@ -6,8 +6,9 @@
 
 - 🌱 I’m currently learning HTML&CSS
 - 📫 How to reach me: 
-              [@GuNner-pete](https://github.com/GuNner-pete)
+              [](https://github.com/GuNner-pete)
               [@Peter_Mo_Gerges](https://app.slack.com/client/T47CT8XPG/D01DKUXRDKP/user_profile/U01DP875AP5)
+              [twitter](https://twitter.com/MoonlighMr)
 
 
 
