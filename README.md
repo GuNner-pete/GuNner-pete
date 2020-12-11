@@ -4,12 +4,13 @@
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuNner-pete)](https://github.com/anuraghazra/github-readme-stats)
 
-## - 🌱 I’m currently learning:
-                            HTML&CSS
-## 📫 How to reach  
-[@Peter_Mo_Gerges](https://app.slack.com/client/T47CT8XPG/D01DKUXRDKP/user_profile/U01DP875AP5) <br>
-[twitter](https://twitter.com/MoonlighMr)
+# - 🌱 I’m currently learning:
+## HTML&CSS &nbsp;
+## Ruby &nbsp;
 
+## 📫 How to reach  
+[@Peter_Mo_Gerges](https://app.slack.com/client/T47CT8XPG/D01DKUXRDKP/user_profile/U01DP875AP5)&nbsp;
+[twitter](https://twitter.com/MoonlighMr)&nbsp;
 
 
 
