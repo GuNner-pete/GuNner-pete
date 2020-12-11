@@ -1,26 +1,31 @@
-### Hi there 👋, I'm Peter-you can also call me Pete-
-<div class="d-fleax-column">
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GuNner-pete&count_private=true&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuNner-pete)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-- 🌱 I’m currently learning HTML&CSS
-- 📫 How to reach me: <a href=">
+
+<h1 align="center">Hi there 👋, I'm Peter-you can also call me Pete-</h1>
+
+<p align="center">
+I'm a student of :heart_eyes: Microvese :heart_eyes: learned HTML & CSS and going to learn Ruby in the next few months..So I'm semi-web developer :laughing::laughing::laughing:
+</p>
 
 
 
+<p align="center">
+    <a href="https://github.com/edisonlee55"><img src="https://github-readme-stats.vercel.app/api?username=GuNner-pete&hide_border=true&show_icons=true&theme=chartreuse-dark" alt="edisonlee55's github stats"></a>
+</p>
 
-<!--
-**GuNner-pete/GuNner-pete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<h2 align="center"> 📫 How to reach me: </h2>
 
-Here are some ideas to get you started:
+<p align="center">
+<a href="https://www.instagram.com/via_love_/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="akhilgkrishnan" height="30" width="30" /></a>
+<a href="https://www.facebook.com/peter.mo.gerges" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="akhilgkrishnan9800" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/peter-mo-2924a7183/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="akhilgkrishnan" height="30" width="30" /></a>
+<a href="https://twitter.com/MoonlighMr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mrakhilg" height="30" width="30" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="center"> Languages&Tools: </h2>
+<p align="center">
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="Github Desktop" width="26px" src="https://dl2.macupdate.com/images/icons256/39062.png?d=1522354604" />
+</p>
